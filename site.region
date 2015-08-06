@@ -15,7 +15,7 @@
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 
-    <div class="container">
+    
 
     <!-- header -->
 <div id="sticky-header">
@@ -105,7 +105,7 @@
         <squarespace:block-field id="footerBlocks" columns="12" />
       </footer>
 
-    </div>
+   
 
     <!--Combo and minify the scripts when you're not logged in.-->
     <!--<squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" /> -->
