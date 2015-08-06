@@ -245,7 +245,7 @@
           </p>
         </div>
         
-        <div class="photo col-lg-6 col-md-6 col-sm-6 xs-hidden" style="background: url('assets/photo_2.jpg') right top 200% 0% no-repeat;" id="location-photo"></div>
+        <div class="photo col-lg-6 col-md-6 col-sm-6 xs-hidden" style="background: url('assets/photo_2.jpg') right top 200% 0% no-repeat;"></div>
       </div>
     </div>
   </div>
