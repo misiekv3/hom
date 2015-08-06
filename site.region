@@ -225,6 +225,32 @@
     </div>
   </div>
 
+<!-- location -->
+<div id="location" class="section light-grey-bg">
+    <div class="container-fluid">
+      <div class="row">
+        <div id="step-into" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <h3>STEP INTO YOUR NEW HōM</h3>
+          
+          <p>Perfect location? Check. Now have a look at the upgraded life that awaits you inside each spacious HōM apartment. <br/><br/>
+
+          Each individual unit in HōM has been designed to let you lead the life you aspire to right now – a higher level of elegance, comfort, 
+          and modern design – at a reasonable price. Some units feature bold polished concrete floors throughout, others the warmth of distressed wood-styled flooring. All boast caesar stone style countertops, designer fixtures and tiled bathrooms and showers. Plus, every unit has a view of the garden, the City skyline, or the Hollywood Hills that you can enjoy from your very own balcony 
+          or patio.<br/><br/>
+
+          3321 West Temple<br/>
+          Los Angeles, CA 90026<br/><br/>
+          
+          <i class="fa fa-map-marker"></i>&nbsp;&nbsp;&nbsp;<a href="#">Click and check on Google Maps</a>
+          </p>
+        </div>
+        
+        <div class="photo col-lg-6 col-md-6 col-sm-6 xs-hidden" style="background: url('assets/photo_2.jpg') right top no-repeat;"></div>
+      </div>
+    </div>
+  </div>
+
+
       <!--Footer with open block field.-->
       <footer id="footer" class="footer">
         <squarespace:block-field id="footerBlocks" columns="12" />
