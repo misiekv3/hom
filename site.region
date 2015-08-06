@@ -17,13 +17,28 @@
 
     <div class="container-own">
 
-      <header id="header" class="header">
-        <div id="sticky-header">
+    <!-- header -->
+<div id="sticky-header">
     <div class="container">
       <div class="row">
         <div id="logo"><a href="index.html" title="Homepage"><img src="assets/hom_logo.png" class="img-responsive" alt="" /></a></div>
         
-       
+        <div id="burger">
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            viewBox="0 0 36 20" enable-background="new 0 0 36 20" xml:space="preserve">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,0h36v3H0V0z"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,8h36v3H0V8z"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,17h36v3H0V17z"/>
+          </svg>
+        </div>
+        
+        <div id="x-close">
+          <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,25.8L25.8,0L28,2.2L2.2,28L0,25.8z"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M2.2,0L28,25.8L25.8,28L0,2.2L2.2,0z"/>
+          </svg>
+        </div>
         
         <div id="menu" class="col-lg-6 col-md-8 col-sm-9 col-xs-12 right">
           <ul>
@@ -40,14 +55,19 @@
     </div>
   </div>
 
-          
-        
+<!-- slider banner -->
 
-
-      </header>
-
-      <!-- banner slider -->
-        <div id="header-slider">
+<div id="home" class="section">
+    <div id="scroll-down">
+      <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         viewBox="0 0 492.3 492.3" enable-background="new 0 0 492.3 492.3" xml:space="preserve">
+      <path fill="#FFFFFF" d="M260.6,375.3c-8,8-20.8,8-28.8,0L86.2,229.8c-8-8-8-20.8,0-28.8l32.7-32.7c8-8,20.8-8,28.8,0l98.4,98.4
+        l98.4-98.4c8-8,20.8-8,28.8,0l32.7,32.7c8,8,8,20.8,0,28.8L260.6,375.3z M492.3,246.1C492.3,110.3,382,0,246.1,0
+        C110.2,0,0,110.3,0,246.1s110.2,246.1,246.1,246.1C382,492.3,492.3,382,492.3,246.1z"/>
+      </svg>
+    </div>
+    
+    <div id="header-slider">
       <div class="item">
         <div class="container">
           <div class="headline txt-center">
@@ -73,6 +93,7 @@
       </div>
     </div>
   </div>
+
 
       <!--Content injection point.-->
       <main id="content" class="content" role="main" data-content-field="main-content">
