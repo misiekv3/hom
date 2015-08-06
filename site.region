@@ -15,7 +15,7 @@
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 
-    <div class="container-own">
+    <div class="container">
 
     <!-- header -->
 <div id="sticky-header">
