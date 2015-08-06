@@ -92,9 +92,9 @@
     <!--Injection point for tracking scripts and user content from the code injection tab.-->
     {squarespace-footers}
     
-    <squarespace:script src="script/owl.carousel.min.js"/>
+    <squarespace:script src="owl.carousel.min.js"/>
   
-    <squarespace:script src='script/smooth-scroll.js'/>
+    <squarespace:script src='smooth-scroll.js'/>
     <script>
       smoothScroll.init({
       speed: 500,
