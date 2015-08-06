@@ -94,11 +94,100 @@
     </div>
   </div>
 
+      <!-- services -->
 
-      <!--Content injection point.-->
-      <main id="content" class="content" role="main" data-content-field="main-content">
-       {squarespace.main-content}
-      </main>
+      <div id="services" class="section">
+    <div id="skewed-section" class="txt-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 col-md-9 col-sm-9 col-centered">
+            <h2>LIFE IS SHORT. LIVE HōM.</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div style="padding-top: 50px;">
+      <div class="container txt-center">
+        <div class="row">
+          <div class="col-lg-8 col-md-8 col-sm-8 col-centered">
+            <p>Enjoy Los Angeles living made for the way you want to live now. A beautifully designed and finished courtyard style apartment created to fit a lifestyle of young up and comers. HōM is in the heart of LA, conveniently located near everything you love in this vibrant and funky neighborhood.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container-fluid">
+    <div class="row">
+      <img src="img/skewed-photos.jpg" class="img-responsive" alt="" />
+    </div>
+  </div>
+  
+  <div id="amenities" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h3>A Comfortable Boutique Feel</h3>
+          <p>A comfortable boutique feel, yet HōM features all your favorite amenities.</p>
+          
+          <div class="row">
+            <ul class="col-lg-12 col-md-12 col-sm-12">
+              <li class="col-lg-4 col-md-4 col-sm-4">A Full Gymnasium</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Two built-in BBQ Areas</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Pool Table</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">Water Features</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Lounge Area</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Fire Pits</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">TV for True Indoor/Outdoor Entertaining</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Club House That Opens Up Into The Courtyard With a Kitchen</li>
+            </ul>
+          </div>
+          
+          <p>HōM also features exclusive tenant access to plazas and courtyards with tranquil waterfalls and mature landscaping. Your private oasis.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="section blue all-comforts">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h3>ALL THE COMFORTS OF HōM</h3>
+          <p>Living in HōM means living the upgraded life:</p>
+          
+          <div class="row">
+            <ul class="col-lg-12 col-md-12 col-sm-12">
+              <li class="col-lg-4 col-md-4 col-sm-4">GE Stainless Steel Appliances</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Caesar Style Stone Countertops</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Designer Tile Back Splash</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">European Designed Cabinetry</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Luxurious Baths with Deep Soaking Tubs</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">In-Home Washers and Dryers</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">Spacious Wardrobes and Walk-In Closets</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Custom Window Coverings</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Designer Lighting</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">In-Home Security Systems</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Private Balconies* (Most Units)</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">9’+ Ceilings</li>
+              
+              <li class="col-lg-4 col-md-4 col-sm-4">Views of the City and Hollywood Hills* (Select Units)</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Polished Concrete Flooring* (Select Units)</li>
+              <li class="col-lg-4 col-md-4 col-sm-4">Distressed Plank Wood Flooring* (Select Units)</li>
+            </ul>
+          </div>
+          
+          <p>All this in your choice one bedroom one bathroom units (ranging from 678-731 sq. ft.), two bedroom two bathroom units (ranging from 966-1188 sq. ft.) or 3 three bedroom (1215 sq. ft.) units.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
       <!--Footer with open block field.-->
       <footer id="footer" class="footer">
