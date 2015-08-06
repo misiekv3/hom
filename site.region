@@ -101,7 +101,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-9 col-centered">
-            <div class="container"<h2>LIFE IS SHORT. LIVE HōM.</h2></div>
+            <div class="container"><h2>LIFE IS SHORT. LIVE HōM.</h2></div>
           </div>
         </div>
       </div>
@@ -111,7 +111,7 @@
       <div class="container txt-center">
         <div class="row">
           <div class="col-lg-8 col-md-8 col-sm-8 col-centered">
-            <div class="container"><p>Enjoy Los Angeles living made for the way you want to live now. A beautifully designed and finished courtyard style apartment created to fit a lifestyle of young up and comers. HōM is in the heart of LA, conveniently located near everything you love in this vibrant and funky neighborhood.</p></div>
+            <p class="container">Enjoy Los Angeles living made for the way you want to live now. A beautifully designed and finished courtyard style apartment created to fit a lifestyle of young up and comers. HōM is in the heart of LA, conveniently located near everything you love in this vibrant and funky neighborhood.</p>
           </div>
         </div>
       </div>
