@@ -386,11 +386,17 @@
     </div>
   </div>
 
-      <!--Footer with open block field.-->
-      <footer id="footer" class="footer">
-        <squarespace:block-field id="footerBlocks" columns="12" />
-      </footer>
-
+<!-- Footer -->
+<div id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="copyrights">© 2015 Developed by InfoApps</div>
+          <div id="footer-logo"><img src="img/hom_footer_logo.jpg" class="img-responsive" alt=""/></div>
+        </div>
+      </div>
+    </div>
+  </div>
    
 
     <!--Combo and minify the scripts when you're not logged in.-->
