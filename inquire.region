@@ -1,43 +1,7 @@
-<div id="sticky-header">
-		<div class="container">
-			<div class="row">
-				<div id="logo"><a href="index.html" title="Homepage"><img src="img/hom_logo.png" class="img-responsive" alt="" /></a></div>
-				
-				<div id="burger">
-					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						viewBox="0 0 36 20" enable-background="new 0 0 36 20" xml:space="preserve">
-						<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,0h36v3H0V0z"/>
-						<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,8h36v3H0V8z"/>
-						<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,17h36v3H0V17z"/>
-					</svg>
-				</div>
-				
-				<div id="x-close">
-					<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
-						<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,25.8L25.8,0L28,2.2L2.2,28L0,25.8z"/>
-						<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M2.2,0L28,25.8L25.8,28L0,2.2L2.2,0z"/>
-					</svg>
-				</div>
-				
-				<div id="menu" class="col-lg-6 col-md-8 col-sm-9 col-xs-12 right">
-					<ul>
-						<li class="active"><a data-scroll data-options='{ "offset": 0 }' href="index.html#home">Home</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#services">Services</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#amenities">Amenities</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#gallery">Gallery</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#location">Location</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#floorplans">Floorplans</a></li>
-						<li><a data-scroll data-options='{ "offset": 100 }' href="index.html#contact">Contact</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
 	
 	<div class="section container-fluid" style="padding: 0 0;">
 		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><img src="img/inquiry_header_bg.jpg" class="img-responsive" alt="" /></div>
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><img src="assets/inquiry_header_bg.jpg" class="img-responsive" alt="" /></div>
 		</div>
 	</div>
 	
