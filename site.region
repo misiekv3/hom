@@ -40,7 +40,7 @@
           </svg>
         </div>
         
-        <div id="menu" class="col-lg-6 col-md-8 col-sm-9 col-xs-12 right">
+        <div id="menu" class="col-lg-5 col-md-8 col-sm-9 col-xs-12 right">
           <ul>
             <li class="active"><a data-scroll data-options='{ "offset": 0 }' href="#home">Home</a></li>
             <li><a data-scroll data-options='{ "offset": 100 }' href="#services">Services</a></li>
@@ -348,7 +348,7 @@
   <div class="container">
     <div class="row">
       <div id="contact-form" class="col-lg-5 col-md-6 col-sm-6">
-        
+
       </div>
     </div>
   </div>
