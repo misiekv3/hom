@@ -344,15 +344,47 @@
   </div>
 
 <!-- Contact -->
-<div id="contact" class="section-blue" style="border-bottom: 1px solid #fff">
-  <div class="container">
-    <div class="row">
-      <div id="contact-form" class="col-lg-5 col-md-6 col-sm-6">
+<div id="contact" class="section blue" style="border-bottom: 1px solid #fff;">
+    <div class="container">
+      <div class="row">
+        <div id="contact-form" class="col-lg-5 col-md-6 col-sm-6">
+          <h3>general inquiries</h3>
+          
+          <input type="text" placeholder="Name" />
+          <input type="email" placeholder="Email" />
+          <textarea placeholder="Your message" ></textarea>
+          
+          <div class="row">
+            <div class="col-lg-4 col-lg-push-8 col-md-4 col-md-push-8">
+              <input type="submit" value="Send" />
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 col-lg-push-1 col-md-6 col-sm-6">
+          <h3>contact</h3>
+          
+          <div class="row">
+            <div class="col-lg-6 col-md-8 col-sm-6">
+              <p>T/ 555.555.5555<br/>
+              F/ 555.555.5555<br/><br/>
 
+              A/ 3321 West Temple<br/>
+              Los Angeles, CA 90026<br/><br/>
+
+              <i class="fa fa-map-marker"></i>&nbsp;&nbsp;&nbsp;<a id="google-map" href="#">Click and check on Google Maps</a></p>
+            </div>
+            
+            <div id="social" class="col-lg-6 col-md-4 col-sm-6">
+              <a href="#"><i class="fa fa-facebook-square"></i>&nbsp;&nbsp;&nbsp;Facebook<br/></a>
+              <a href="#"><i class="fa fa-twitter-square"></i>&nbsp;&nbsp;&nbsp;Twitter<br/></a>
+              <a href="#"><i class="fa fa-linkedin-square"></i>&nbsp;&nbsp;&nbsp;Linkedin</a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
       <!--Footer with open block field.-->
       <footer id="footer" class="footer">
