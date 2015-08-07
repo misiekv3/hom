@@ -343,6 +343,16 @@
     </div>
   </div>
 
+<!-- Contact -->
+<div id="contact" class="section-blue" style="border-bottom: 1px solid #fff">
+  <div class="container">
+    <div class="row">
+      <div id="contact-form" class="col-lg-5 col-md-6 col-sm-6">
+        
+      </div>
+    </div>
+  </div>
+</div>
 
       <!--Footer with open block field.-->
       <footer id="footer" class="footer">
