@@ -247,7 +247,7 @@
                   <a href="#" class="link">Download floorplan</a>
                 </div>
                 
-                <a href="pages/inquiry.html" class="btn">Inquire</a>
+                <a href="inquire.region" class="btn">Inquire</a>
               
                 <div class="shadow"><img src="assets/shadow.png" class="img-responsive" alt="" /></div>
                 <div class="photo"><img src="assets/floorplan_photo_1.jpg" class="img-responsive" alt="" /></div>
