@@ -13,9 +13,8 @@
     <!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
     {squarespace-headers}
   </head>
-  <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 
-    
+  <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 
     <!-- header -->
 <div id="sticky-header">
@@ -265,7 +264,7 @@
                   <a href="#" class="link">Download floorplan</a>
                 </div>
                 
-                <a href="inquiry.html" class="btn">Inquire</a>
+                <a href="pages/inquiry.html" class="btn">Inquire</a>
               
                 <div class="shadow"><img src="assets/shadow.png" class="img-responsive" alt="" /></div>
                 <div class="photo"><img src="assets/floorplan_photo_1.jpg" class="img-responsive" alt="" /></div>
