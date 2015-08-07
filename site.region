@@ -355,7 +355,7 @@
           <input type="email" placeholder="Email" />
           <textarea placeholder="Your message" ></textarea>
           
-          <div class="row">
+          <div class="row" id="button">
             <div class="col-lg-4 col-lg-push-8 col-md-4 col-md-push-8">
               <input type="submit" value="Send" />
             </div>
