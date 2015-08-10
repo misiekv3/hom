@@ -1,5 +1,6 @@
 <!-- slider banner -->
 
+<squarespaces:block-field id="blockFieldl" columns="12" lock-layout="true" />
 <div id="home" class="section">
     <div id="scroll-down">
       <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
