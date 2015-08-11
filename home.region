@@ -291,7 +291,7 @@
 <div id="contact" class="section blue" style="border-bottom: 1px solid #fff;">
     <div class="container">
       <div class="row">
-        <form id="contactform" method="post" action="mailer.php">
+        <form id="contactform" method="post" action="scripts/mailer.php">
           
 
           <div id="contact-form" class="col-lg-5 col-md-6 col-sm-6">
