@@ -310,6 +310,7 @@
         </form>
         
         <div class="col-lg-6 col-lg-push-1 col-md-6 col-sm-6">
+        <squarespace:form id=form" />
           <h3>contact</h3>
           
           <div class="row">
