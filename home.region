@@ -288,6 +288,10 @@
   </div>
 
 <!-- Contact -->
+<div id="contact" class="section blue" style="border-bottom: 1px solid #fff;">
+    <div class="container">
+      <div class="row">
+
       <squarespace:block-field id="blockField1" columns="6"/>
         <form id="contactform" method="post">
           
