@@ -21,7 +21,7 @@
 		<div id="inquiry-form" class="section blue">
 			<div class="row">
 				<form method="post">
-					<div id="contact-form" class="col-lg-10 col-md-10 col-sm-12 col-xs-12 col-centered">
+					<div id="contact-form-inquire" class="col-lg-10 col-md-10 col-sm-12 col-xs-12 col-centered">
 					<span style="display: block; font-size: 18px; margin-bottom: 30px;">Inquiry for Apartment 1</span>
 					
 					<div class="row">
