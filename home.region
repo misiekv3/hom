@@ -288,7 +288,7 @@
   </div>
 
 <!-- Contact -->
-<div id="contact" class="section blue" style="border-bottom: 1px solid #fff;">
+<div id="contact" class="section blue hiddenSection" style="border-bottom: 1px solid #fff;">
     <div class="container">
       <div class="row">
 
