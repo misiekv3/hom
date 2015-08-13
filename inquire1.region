@@ -20,7 +20,8 @@
 	<div class="container" style="border-bottom: 1px solid #fff;">
 		<div id="inquiry-form" class="section blue">
 			<div class="row">
-				<form method="post">
+			<squarespace:block-field id="contactForm" columns="12"/>
+				<form method="post" class="hiddenSection">
 					<div id="contact-form-inquire" class="col-lg-10 col-md-10 col-sm-12 col-xs-12 col-centered">
 					<span style="display: block; font-size: 18px; margin-bottom: 30px;">Inquiry for Apartment 1</span>
 					
