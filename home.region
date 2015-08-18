@@ -39,8 +39,9 @@
   </div>
 
       <!-- services -->
+<squarespace:block-field id="contactForm" columns="12"/>
 
-      <div id="services" class="section">
+     <!-- <div id="services" class="section">
     <div id="skewed-section" class="txt-center">
       <div class="container">
         <div class="row">
@@ -66,7 +67,7 @@
     <div class="row">
       <img src="assets/skewed-photos.jpg" style="height:350px" class="img-responsive" alt="" />
     </div>
-  </div>
+  </div> -->
   
   <div id="amenities" class="section">
     <div class="container">
