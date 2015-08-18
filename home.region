@@ -69,8 +69,8 @@
     </div>
   </div>-->
 
-  <squarespace:block-field id="services" columns="12"/>
-  
+  <squarespace:block-field id="amenities" columns="12"/>
+
   <!--<div id="amenities" class="section">
     <div class="container">
       <div class="row">
