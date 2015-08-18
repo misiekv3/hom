@@ -68,8 +68,10 @@
       <img src="assets/skewed-photos.jpg" style="height:350px" class="img-responsive" alt="" />
     </div>
   </div>-->
+
+  <squarespace:block-field id="services" columns="12"/>
   
-  <div id="amenities" class="section">
+  <!--<div id="amenities" class="section">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -132,7 +134,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 
 <!-- gallery -->
 
