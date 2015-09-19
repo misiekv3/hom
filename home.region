@@ -17,19 +17,7 @@
           <squarespace:block-field id="headerSlider" />
         </div>
         
-        <img src="assets/header_photo_1.jpg" class="img-responsive" alt=""/>
-      </div>
-      
-      <div class="item">
-        <div class="container">
-          <div class="headline txt-center">
-            <h1>Your Life, Your Terms</h1>
-            <div class="separator"></div>
-            <p>HōM is a new boutique apartment community in Silverlake. We created it to have everything you need, and nothing you don’t - luxury living at a fraction of the cost.</p>
-          </div>
-        </div>
         
-        <img src="assets/header_photo_1.jpg" class="img-responsive" alt=""/>
       </div>
     </div>
   </div>
